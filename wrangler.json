@@ -20,6 +20,11 @@
         "class_name": "Globe",
         "name": "Globe"
       }
+    ],
+    "namespaces": [
+      "binding": "Globe",
+      "class_name": "Globe"
+      }
     ]
   },
   "observability": {
