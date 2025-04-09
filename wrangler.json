@@ -22,8 +22,9 @@
       }
     ],
     "namespaces": [
-      "binding": "Globe",
-      "class_name": "Globe"
+      {
+         "binding": "Globe",
+         "class_name": "Globe"
       }
     ]
   },
